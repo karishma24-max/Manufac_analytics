@@ -1,3 +1,5 @@
-<h1>Deployed Link</h1> https://aquamarine-caramel-408934.netlify.app
+<h3><h1>Deployed Link</h1>:- https://aquamarine-caramel-408934.netlify.app</h3>
 
-![Screenshot (469)](https://user-images.githubusercontent.com/101395093/221100369-5c2b9206-063d-4eae-a879-0a2c9fd11d3e.png)
+
+![Screenshot (470)](https://user-images.githubusercontent.com/101395093/221151582-5783577c-66ad-4844-adf0-c1ced85ec229.png)
+![Screenshot (471)](https://user-images.githubusercontent.com/101395093/221151603-40290693-87d1-4d00-ad96-78dee272621b.png)
